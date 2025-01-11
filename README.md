@@ -4,6 +4,7 @@
 # Recycler View Android
 
 Welcome to the Recycler View Android project! This repository contains the implementation of RecyclerView in an Android application, providing a flexible and efficient way to display a large set of data.
+Recycler view can be a bit intimidating at first and trust me its a bit of a challenge due to its steeper learning curve 
 
 ## Table of Contents
 
