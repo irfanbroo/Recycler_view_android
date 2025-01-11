@@ -153,7 +153,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 - Add more examples of different RecyclerView layouts.
 - Implement data binding with ViewModel.
-- Improve the swipe-to-delete and drag-and-drop features.
+- Improve the swipe-to-delete and drag-and-drop features
 
 ## License
 
