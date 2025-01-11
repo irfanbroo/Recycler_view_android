@@ -13,13 +13,11 @@ Recycler view can be a bit intimidating at first and trust me its a bit of a cha
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [Future Improvements](#future-improvements)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -83,9 +81,6 @@ dependencies {
 
 2. **Create Adapter and ViewHolder**: Create a custom adapter and view holder to bind data to the RecyclerView.
 
-## Screenshots
-
-Include screenshots of your app demonstrating the RecyclerView in action. This helps users understand what the app looks like and how it functions.
 
 ## Technologies Used
 
